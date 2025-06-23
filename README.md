@@ -50,6 +50,8 @@ A simple cross-platform **Task Management** application built with **Flutter** f
 ---
 
 ## Folder Structure
+
+```
 lib/
 ├── core/
 │ ├── services/ # API service and token storage
@@ -63,6 +65,7 @@ lib/
 ├── routes/ # AppRoutes (named routes)
 ├── theme/ # App theme (dark/light)
 └── main.dart # Entry point
+```
 
 ##  Getting Started
 
